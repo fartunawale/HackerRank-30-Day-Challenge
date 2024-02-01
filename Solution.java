@@ -1,10 +1,10 @@
 // Day 1 Challenge about Data Types
 
-import java.io.*;
+// import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+// import java.text.*;
+// import java.math.*;
+// import java.util.regex.*;
 
 public class Solution {
 	
